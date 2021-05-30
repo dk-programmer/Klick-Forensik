@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
-"productName": "Bachelor",
-"productVersion": "1.0.001",
+"companyName": "ADKGames",
+"productName": "Klick Forensik",
+"productVersion": "1.0.002",
 "dataUrl": "Bachelor.data.unityweb",
 "wasmCodeUrl": "Bachelor.wasm.code.unityweb",
 "wasmFrameworkUrl": "Bachelor.wasm.framework.unityweb",
